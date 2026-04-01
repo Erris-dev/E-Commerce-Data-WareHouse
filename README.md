@@ -43,7 +43,7 @@ This project follows a layered data warehouse architecture:
 - **Gold Layer** → Analytical models (fact and dimension tables)  
 
 > See visuals:
-![Data Architecture](docs/DataArchitecture.png)
+![Data Architecture](C:\Users\erris\OneDrive\Desktop\E-Commerce-Data-WareHouse\docs\DataArchitecture.png)
 
 ---
 
