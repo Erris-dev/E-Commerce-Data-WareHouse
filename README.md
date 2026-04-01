@@ -43,8 +43,7 @@ This project follows a layered data warehouse architecture:
 - **Gold Layer** → Analytical models (fact and dimension tables)  
 
 > See visuals:
-- `docs/DataArchitecture.png`  
-- `docs/DataFlow.png`  
+![Data Architecture](docs/DataArchitecture.png)
 
 ---
 
